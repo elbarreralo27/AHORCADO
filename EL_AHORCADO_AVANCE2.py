@@ -22,13 +22,13 @@ while True:
     
 
 if dificultad == 1:
-    print("Ha escogido la dificultad principiante, por lo que tiene 10 vidas.")
+    print("Ha escogido la dificultad principiante, por lo que tiene 10 VIDAS.")
     intentos = 10
 elif dificultad == 2:
-    print("Ha escogido la dificultad intermedio, por lo que tiene 7 vidas.")
+    print("Ha escogido la dificultad intermedio, por lo que tiene 7 VIDAS.")
     intentos = 7
 elif dificultad == 3:
-    print("Ha escogido la dificultad experto, por lo que tiene 5 vidas.")
+    print("Ha escogido la dificultad experto, por lo que tiene 5 VIDAS.")
     intentos = 5
 
 
