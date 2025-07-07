@@ -25,4 +25,5 @@ El programa descarga la librería Random, después una palabra de la lista "pala
 - README.md
 
 #Video explicativo
-DRIVE: 
+DRIVE: https://drive.google.com/drive/folders/1_IrtixvL_N2qzur27w8K4BTdtfgWp3Cw?usp=sharing
+
